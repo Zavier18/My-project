@@ -1,0 +1,1228 @@
+ metropolis rat:  0.6578947      in           76 , best:    42.52645    
+ local acceptance ratio:  0.6578947    
+ metropolis rat:  0.6711410      in          149 , best:    41.20770    
+ local acceptance ratio:  0.6849315    
+ metropolis rat:  0.6976744      in          215 , best:    40.74386    
+ local acceptance ratio:  0.7575758    
+ metropolis rat:  0.7168459      in          279 , best:    40.31540    
+ local acceptance ratio:  0.7812500    
+ Current convergence R-1 =    20.96498      chain steps =         339
+ metropolis rat:  0.7062147      in          354 , best:    40.31540    
+ local acceptance ratio:  0.6666667    
+ metropolis rat:  0.6880734      in          436 , best:    38.86566    
+ local acceptance ratio:  0.6097561    
+ metropolis rat:  0.6769826      in          517 , best:    38.86566    
+ local acceptance ratio:  0.6172839    
+ metropolis rat:  0.6568145      in          609 , best:    38.86566    
+ local acceptance ratio:  0.5434783    
+ Current convergence R-1 =    3.348831      chain steps =         654
+ metropolis rat:  0.6392046      in          704 , best:    38.86566    
+ local acceptance ratio:  0.5263158    
+ metropolis rat:  0.6024097      in          830 , best:    37.66371    
+ local acceptance ratio:  0.3968254    
+ metropolis rat:  0.5813953      in          946 , best:    37.66371    
+ local acceptance ratio:  0.4310345    
+ Current convergence R-1 =    1.446690      chain steps =         950
+ metropolis rat:  0.5698006      in         1053 , best:    37.66371    
+ local acceptance ratio:  0.4672897    
+ metropolis rat:  0.5574614      in         1166 , best:    37.66371    
+ local acceptance ratio:  0.4424779    
+ Current convergence R-1 =    1.123832      chain steps =        1252
+ metropolis rat:  0.5327245      in         1314 , best:    37.66371    
+ local acceptance ratio:  0.3378378    
+ metropolis rat:  0.5222842      in         1436 , best:    37.66371    
+ local acceptance ratio:  0.4098361    
+ metropolis rat:  0.5242464      in         1526 , best:    37.66371    
+ local acceptance ratio:  0.5555556    
+ Current convergence R-1 =   0.7631990      chain steps =        1601
+ metropolis rat:  0.5129753      in         1657 , best:    37.66371    
+ local acceptance ratio:  0.3816794    
+ metropolis rat:  0.5093378      in         1767 , best:    37.66371    
+ local acceptance ratio:  0.4545455    
+ metropolis rat:  0.5045141      in         1883 , best:    37.66371    
+ local acceptance ratio:  0.4310345    
+ Current convergence R-1 =   0.4432217      chain steps =        1907
+ metropolis rat:  0.5007511      in         1997 , best:    37.66371    
+ local acceptance ratio:  0.4385965    
+ metropolis rat:  0.4950495      in         2121 , best:    37.66371    
+ local acceptance ratio:  0.4032258    
+ Current convergence R-1 =   0.2500256      chain steps =        2220
+ metropolis rat:  0.4946043      in         2224 , best:    37.66371    
+ local acceptance ratio:  0.4854369    
+ metropolis rat:  0.4885302      in         2354 , best:    37.66371    
+ local acceptance ratio:  0.3846154    
+ metropolis rat:  0.4848485      in         2475 , best:    37.66371    
+ local acceptance ratio:  0.4132231    
+ Current convergence R-1 =   0.1571762      chain steps =        2595
+ metropolis rat:  0.4813246      in         2597 , best:    37.66371    
+ local acceptance ratio:  0.4098361    
+ metropolis rat:  0.4791743      in         2713 , best:    37.66371    
+ local acceptance ratio:  0.4310345    
+ metropolis rat:  0.4763585      in         2834 , best:    37.66371    
+ local acceptance ratio:  0.4132231    
+ Current convergence R-1 =   0.1584011      chain steps =        2882
+ metropolis rat:  0.4736130      in         2956 , best:    37.66371    
+ local acceptance ratio:  0.4098361    
+ metropolis rat:  0.4675911      in         3101 , best:    37.66371    
+ local acceptance ratio:  0.3448276    
+ Current convergence R-1 =   0.1273171      chain steps =        3217
+ metropolis rat:  0.4648280      in         3227 , best:    37.66371    
+ local acceptance ratio:  0.3968254    
+ metropolis rat:  0.4619970      in         3355 , best:    37.66371    
+ local acceptance ratio:  0.3906250    
+ metropolis rat:  0.4585841      in         3489 , best:    37.66371    
+ local acceptance ratio:  0.3731343    
+ Current convergence R-1 =   8.7490283E-02  chain steps =        3514
+ metropolis rat:  0.4588432      in         3596 , best:    37.66371    
+ local acceptance ratio:  0.4672897    
+ metropolis rat:  0.4578508      in         3713 , best:    37.66371    
+ local acceptance ratio:  0.4273504    
+ metropolis rat:  0.4559667      in         3838 , best:    37.66371    
+ local acceptance ratio:  0.4000000    
+ Current convergence R-1 =   8.8578328E-02  chain steps =        3848
+ metropolis rat:  0.4521477      in         3981 , best:    37.66371    
+ local acceptance ratio:  0.3496504    
+ metropolis rat:  0.4511095      in         4101 , best:    37.66371    
+ local acceptance ratio:  0.4166667    
+ Current convergence R-1 =   6.6269383E-02  chain steps =        4183
+ metropolis rat:  0.4492788      in         4229 , best:    37.66371    
+ local acceptance ratio:  0.3906250    
+ metropolis rat:  0.4496196      in         4337 , best:    37.66371    
+ local acceptance ratio:  0.4629630    
+ metropolis rat:  0.4463289      in         4481 , best:    37.66371    
+ local acceptance ratio:  0.3472222    
+ Current convergence R-1 =   6.9582574E-02  chain steps =        4502
+ metropolis rat:  0.4427646      in         4630 , best:    37.66371    
+ local acceptance ratio:  0.3355705    
+ metropolis rat:  0.4417333      in         4754 , best:    37.66371    
+ local acceptance ratio:  0.4032258    
+ Current convergence R-1 =   7.1900509E-02  chain steps =        4808
+ metropolis rat:  0.4399427      in         4887 , best:    37.66371    
+ local acceptance ratio:  0.3759398    
+ metropolis rat:  0.4398241      in         5002 , best:    37.66371    
+ local acceptance ratio:  0.4347826    
+ metropolis rat:  0.4394531      in         5120 , best:    37.66371    
+ local acceptance ratio:  0.4237288    
+ Current convergence R-1 =   5.4057784E-02  chain steps =        5123
+ metropolis rat:  0.4375951      in         5256 , best:    37.66371    
+ local acceptance ratio:  0.3676471    
+ metropolis rat:  0.4354271      in         5397 , best:    37.66371    
+ local acceptance ratio:  0.3546099    
+ Current convergence R-1 =   5.1041145E-02  chain steps =        5427
+ metropolis rat:  0.4334477      in         5537 , best:    37.66371    
+ local acceptance ratio:  0.3571429    
+ metropolis rat:  0.4350915      in         5631 , best:    37.66371    
+ local acceptance ratio:  0.5319149    
+ metropolis rat:  0.4349339      in         5748 , best:    37.66371    
+ local acceptance ratio:  0.4273504    
+ Current convergence R-1 =   4.8330627E-02  chain steps =        5761
+ metropolis rat:  0.4344863      in         5869 , best:    37.66371    
+ local acceptance ratio:  0.4132231    
+ metropolis rat:  0.4336948      in         5995 , best:    37.66371    
+ local acceptance ratio:  0.3968254    
+ Current convergence R-1 =   3.5520680E-02  chain steps =        6096
+ metropolis rat:  0.4314556      in         6142 , best:    37.60736    
+ local acceptance ratio:  0.3401361    
+ metropolis rat:  0.4297310      in         6283 , best:    37.60736    
+ local acceptance ratio:  0.3546099    
+ metropolis rat:  0.4296204      in         6401 , best:    37.60736    
+ local acceptance ratio:  0.4237288    
+ Current convergence R-1 =   3.7383132E-02  chain steps =        6420
+ metropolis rat:  0.4284621      in         6535 , best:    37.60736    
+ local acceptance ratio:  0.3731343    
+ metropolis rat:  0.4269663      in         6675 , best:    37.60736    
+ local acceptance ratio:  0.3571429    
+ Current convergence R-1 =   4.1025955E-02  chain steps =        6773
+ metropolis rat:  0.4274134      in         6785 , best:    37.60736    
+ local acceptance ratio:  0.4545455    
+ metropolis rat:  0.4261158      in         6923 , best:    37.60736    
+ local acceptance ratio:  0.3623188    
+ metropolis rat:  0.4258944      in         7044 , best:    37.60736    
+ local acceptance ratio:  0.4132231    
+ Current convergence R-1 =   3.5122853E-02  chain steps =        7103
+ metropolis rat:  0.4257398      in         7164 , best:    37.60736    
+ local acceptance ratio:  0.4166667    
+ metropolis rat:  0.4243669      in         7305 , best:    37.60736    
+ local acceptance ratio:  0.3546099    
+ metropolis rat:  0.4242424      in         7425 , best:    37.60736    
+ local acceptance ratio:  0.4166667    
+ Current convergence R-1 =   3.6490910E-02  chain steps =        7454
+ metropolis rat:  0.4231125      in         7563 , best:    37.60736    
+ local acceptance ratio:  0.3623188    
+ metropolis rat:  0.4223522      in         7695 , best:    37.60736    
+ local acceptance ratio:  0.3787879    
+ Current convergence R-1 =   3.1795010E-02  chain steps =        7792
+ metropolis rat:  0.4224270      in         7812 , best:    37.60736    
+ local acceptance ratio:  0.4273504    
+ metropolis rat:  0.4216488      in         7945 , best:    37.60736    
+ local acceptance ratio:  0.3759398    
+ metropolis rat:  0.4222029      in         8053 , best:    37.60736    
+ local acceptance ratio:  0.4629630    
+ Current convergence R-1 =   2.7508339E-02  chain steps =        8099
+ metropolis rat:  0.4210912      in         8193 , best:    37.60736    
+ local acceptance ratio:  0.3571429    
+ metropolis rat:  0.4207742      in         8318 , best:    37.60736    
+ local acceptance ratio:  0.4000000    
+ Current convergence R-1 =   2.7027460E-02  chain steps =        8402
+ metropolis rat:  0.4196714      in         8459 , best:    37.60736    
+ local acceptance ratio:  0.3546099    
+ metropolis rat:  0.4187507      in         8597 , best:    37.60736    
+ local acceptance ratio:  0.3623188    
+ metropolis rat:  0.4177635      in         8737 , best:    37.60736    
+ local acceptance ratio:  0.3571429    
+ Current convergence R-1 =   2.5955327E-02  chain steps =        8746
+ metropolis rat:  0.4182209      in         8847 , best:    37.60736    
+ local acceptance ratio:  0.4545455    
+ metropolis rat:  0.4179670      in         8972 , best:    37.60736    
+ local acceptance ratio:  0.4000000    
+ Current convergence R-1 =   2.7906079E-02  chain steps =        9063
+ metropolis rat:  0.4167581      in         9118 , best:    37.60736    
+ local acceptance ratio:  0.3424658    
+ metropolis rat:  0.4163513      in         9247 , best:    37.60736    
+ local acceptance ratio:  0.3875969    
+ Current convergence R-1 =   2.2618653E-02  chain steps =        9348
+ metropolis rat:  0.4163553      in         9367 , best:    37.60736    
+ local acceptance ratio:  0.4166667    
+ metropolis rat:  0.4156145      in         9504 , best:    37.60736    
+ local acceptance ratio:  0.3649635    
+ metropolis rat:  0.4156276      in         9624 , best:    37.60736    
+ local acceptance ratio:  0.4166667    
+ Current convergence R-1 =   2.1652689E-02  chain steps =        9660
+ metropolis rat:  0.4159819      in         9736 , best:    37.60736    
+ local acceptance ratio:  0.4464286    
+ metropolis rat:  0.4146440      in         9888 , best:    37.60736    
+ local acceptance ratio:  0.3289474    
+ Current convergence R-1 =   2.1022061E-02  chain steps =        9952
+ metropolis rat:  0.4143784      in        10015 , best:    37.60736    
+ local acceptance ratio:  0.3937008    
+ metropolis rat:  0.4137931      in        10150 , best:    37.60736    
+ local acceptance ratio:  0.3703704    
+ metropolis rat:  0.4140283      in        10265 , best:    37.60736    
+ local acceptance ratio:  0.4347826    
+ Current convergence R-1 =   2.6787434E-02  chain steps =       10298
+ metropolis rat:  0.4135411      in        10398 , best:    37.60736    
+ local acceptance ratio:  0.3759398    
+ metropolis rat:  0.4133017      in        10525 , best:    37.60736    
+ local acceptance ratio:  0.3937008    
+ Current convergence R-1 =   2.5420764E-02  chain steps =       10604
+ metropolis rat:  0.4126805      in        10662 , best:    37.60736    
+ local acceptance ratio:  0.3649635    
+ metropolis rat:  0.4122279      in        10795 , best:    37.60736    
+ local acceptance ratio:  0.3759398    
+ metropolis rat:  0.4122012      in        10917 , best:    37.60736    
+ local acceptance ratio:  0.4098361    
+ Current convergence R-1 =   2.7580215E-02  chain steps =       10986
+ metropolis rat:  0.4121377      in        11040 , best:    37.60736    
+ local acceptance ratio:  0.4065041    
+ metropolis rat:  0.4122603      in        11158 , best:    37.60736    
+ local acceptance ratio:  0.4237288    
+ metropolis rat:  0.4113588      in        11304 , best:    37.60736    
+ local acceptance ratio:  0.3424658    
+ Current convergence R-1 =   2.7862081E-02  chain steps =       11340
+ metropolis rat:  0.4098718      in        11467 , best:    37.60736    
+ local acceptance ratio:  0.3067485    
+ metropolis rat:  0.4098361      in        11590 , best:    37.60736    
+ local acceptance ratio:  0.4065041    
+ Current convergence R-1 =   2.5400564E-02  chain steps =       11662
+ metropolis rat:  0.4094864      in        11722 , best:    37.60736    
+ local acceptance ratio:  0.3787879    
+ metropolis rat:  0.4092136      in        11852 , best:    37.60736    
+ local acceptance ratio:  0.3846154    
+ metropolis rat:  0.4099389      in        11953 , best:    37.60736    
+ local acceptance ratio:  0.4950495    
+ Current convergence R-1 =   2.4382200E-02  chain steps =       12000
+ metropolis rat:  0.4095987      in        12085 , best:    37.60736    
+ local acceptance ratio:  0.3787879    
+ metropolis rat:  0.4091318      in        12221 , best:    37.60736    
+ local acceptance ratio:  0.3676471    
+ Current convergence R-1 =   2.2159509E-02  chain steps =       12309
+ metropolis rat:  0.4091719      in        12342 , best:    37.60736    
+ local acceptance ratio:  0.4132231    
+ metropolis rat:  0.4087194      in        12478 , best:    37.60736    
+ local acceptance ratio:  0.3676471    
+ metropolis rat:  0.4084384      in        12609 , best:    37.60736    
+ local acceptance ratio:  0.3816794    
+ Current convergence R-1 =   2.2987785E-02  chain steps =       12617
+ metropolis rat:  0.4083235      in        12735 , best:    37.60736    
+ local acceptance ratio:  0.3968254    
+ metropolis rat:  0.4088148      in        12842 , best:    37.60736    
+ local acceptance ratio:  0.4672897    
+ Current convergence R-1 =   1.9773826E-02  chain steps =       12954
+ metropolis rat:  0.4081318      in        12986 , best:    37.60736    
+ local acceptance ratio:  0.3472222    
+ metropolis rat:  0.4074328      in        13131 , best:    37.60736    
+ local acceptance ratio:  0.3448276    
+ metropolis rat:  0.4073320      in        13257 , best:    37.60736    
+ local acceptance ratio:  0.3968254    
+ Current convergence R-1 =   1.6637603E-02  chain steps =       13257
+ metropolis rat:  0.4074157      in        13377 , best:    37.60736    
+ local acceptance ratio:  0.4166667    
+ metropolis rat:  0.4076490      in        13492 , best:    37.60736    
+ local acceptance ratio:  0.4347826    
+ Current convergence R-1 =   1.5060832E-02  chain steps =       13579
+ metropolis rat:  0.4083284      in        13592 , best:    37.60736    
+ local acceptance ratio:  0.5000000    
+ metropolis rat:  0.4091175      in        13688 , best:    37.60736    
+ local acceptance ratio:  0.5208333    
+ metropolis rat:  0.4094500      in        13799 , best:    37.60736    
+ local acceptance ratio:  0.4504505    
+ Current convergence R-1 =   1.5110704E-02  chain steps =       13916
+ metropolis rat:  0.4093945      in        13923 , best:    37.60736    
+ local acceptance ratio:  0.4032258    
+ metropolis rat:  0.4094858      in        14042 , best:    37.60736    
+ local acceptance ratio:  0.4201681    
+ metropolis rat:  0.4092577      in        14172 , best:    37.60736    
+ local acceptance ratio:  0.3846154    
+ Current convergence R-1 =   1.6086392E-02  chain steps =       14241
+ metropolis rat:  0.4099222      in        14271 , best:    37.60736    
+ local acceptance ratio:  0.5050505    
+ metropolis rat:  0.4091823      in        14419 , best:    37.60736    
+ local acceptance ratio:  0.3378378    
+ metropolis rat:  0.4095540      in        14528 , best:    37.60736    
+ local acceptance ratio:  0.4587156    
+ Current convergence R-1 =   1.6123585E-02  chain steps =       14578
+ metropolis rat:  0.4089701      in        14671 , best:    37.60334    
+ local acceptance ratio:  0.3496504    
+ metropolis rat:  0.4095586      in        14772 , best:    37.60334    
+ local acceptance ratio:  0.4950495    
+ metropolis rat:  0.4097535      in        14887 , best:    37.60334    
+ local acceptance ratio:  0.4347826    
+ Current convergence R-1 =   1.6269483E-02  chain steps =       14915
+ metropolis rat:  0.4095086      in        15018 , best:    37.60334    
+ local acceptance ratio:  0.3816794    
+ metropolis rat:  0.4093490      in        15146 , best:    37.60334    
+ local acceptance ratio:  0.3906250    
+ Current convergence R-1 =   1.7246768E-02  chain steps =       15266
+ metropolis rat:  0.4087104      in        15292 , best:    37.60334    
+ local acceptance ratio:  0.3424658    
+ metropolis rat:  0.4085603      in        15420 , best:    37.60334    
+ local acceptance ratio:  0.3906250    
+ metropolis rat:  0.4079404      in        15566 , best:    37.60334    
+ local acceptance ratio:  0.3424658    
+ Current convergence R-1 =   1.8161537E-02  chain steps =       15611
+ metropolis rat:  0.4081633      in        15680 , best:    37.60334    
+ local acceptance ratio:  0.4385965    
+ metropolis rat:  0.4076602      in        15822 , best:    37.60334    
+ local acceptance ratio:  0.3521127    
+ Current convergence R-1 =   1.5721960E-02  chain steps =       15918
+ metropolis rat:  0.4076002      in        15947 , best:    37.60334    
+ local acceptance ratio:  0.4000000    
+ metropolis rat:  0.4069587      in        16095 , best:    37.60334    
+ local acceptance ratio:  0.3378378    
+ Current convergence R-1 =   1.6000059E-02  chain steps =       16213
+ metropolis rat:  0.4066794      in        16229 , best:    37.60334    
+ local acceptance ratio:  0.3731343    
+ metropolis rat:  0.4073507      in        16325 , best:    37.60334    
+ local acceptance ratio:  0.5208333    
+ metropolis rat:  0.4072701      in        16451 , best:    37.60334    
+ local acceptance ratio:  0.3968254    
+ Current convergence R-1 =   1.5391283E-02  chain steps =       16537
+ metropolis rat:  0.4065775      in        16602 , best:    37.60334    
+ local acceptance ratio:  0.3311258    
+ metropolis rat:  0.4062855      in        16737 , best:    37.60334    
+ local acceptance ratio:  0.3703704    
+ Current convergence R-1 =   1.4836790E-02  chain steps =       16857
+ metropolis rat:  0.4058778      in        16877 , best:    37.60334    
+ local acceptance ratio:  0.3571429    
+ metropolis rat:  0.4051436      in        17031 , best:    37.60334    
+ local acceptance ratio:  0.3246753    
+ metropolis rat:  0.4057209      in        17130 , best:    37.60334    
+ local acceptance ratio:  0.5050505    
+ Current convergence R-1 =   1.4252924E-02  chain steps =       17188
+ metropolis rat:  0.4054915      in        17263 , best:    37.60334    
+ local acceptance ratio:  0.3759398    
+ metropolis rat:  0.4051724      in        17400 , best:    37.60334    
+ local acceptance ratio:  0.3649635    
+ Current convergence R-1 =   1.2899906E-02  chain steps =       17488
+ metropolis rat:  0.4045815      in        17549 , best:    37.60334    
+ local acceptance ratio:  0.3355705    
+ metropolis rat:  0.4038863      in        17703 , best:    37.60334    
+ local acceptance ratio:  0.3246753    
+ Current convergence R-1 =   1.4501209E-02  chain steps =       17847
+ metropolis rat:  0.4032710      in        17854 , best:    37.60334    
+ local acceptance ratio:  0.3311258    
+ metropolis rat:  0.4034727      in        17969 , best:    37.60334    
+ local acceptance ratio:  0.4347826    
+ metropolis rat:  0.4027142      in        18127 , best:    37.60334    
+ local acceptance ratio:  0.3164557    
+ Current convergence R-1 =   1.3321437E-02  chain steps =       18172
+ metropolis rat:  0.4023649      in        18267 , best:    37.60334    
+ local acceptance ratio:  0.3571429    
+ metropolis rat:  0.4026992      in        18376 , best:    37.60334    
+ local acceptance ratio:  0.4587156    
+ Current convergence R-1 =   1.3268564E-02  chain steps =       18464
+ metropolis rat:  0.4028551      in        18493 , best:    37.60334    
+ local acceptance ratio:  0.4273504    
+ metropolis rat:  0.4031391      in        18604 , best:    37.60334    
+ local acceptance ratio:  0.4504505    
+ metropolis rat:  0.4029245      in        18738 , best:    37.60334    
+ local acceptance ratio:  0.3731343    
+ Current convergence R-1 =   1.3009697E-02  chain steps =       18823
+ metropolis rat:  0.4026277      in        18876 , best:    37.60334    
+ local acceptance ratio:  0.3623188    
+ metropolis rat:  0.4026951      in        18997 , best:    37.60334    
+ local acceptance ratio:  0.4132231    
+ metropolis rat:  0.4024881      in        19131 , best:    37.60334    
+ local acceptance ratio:  0.3731343    
+ Current convergence R-1 =   1.4103943E-02  chain steps =       19134
+ metropolis rat:  0.4023884      in        19260 , best:    37.60334    
+ local acceptance ratio:  0.3875969    
+ metropolis rat:  0.4027053      in        19369 , best:    37.60334    
+ local acceptance ratio:  0.4587156    
+ Current convergence R-1 =   1.3812497E-02  chain steps =       19441
+ metropolis rat:  0.4020075      in        19527 , best:    37.60334    
+ local acceptance ratio:  0.3164557    
+ metropolis rat:  0.4022813      in        19638 , best:    37.60334    
+ local acceptance ratio:  0.4504505    
+ Current convergence R-1 =   1.4972421E-02  chain steps =       19750
+ metropolis rat:  0.4023279      in        19760 , best:    37.60334    
+ local acceptance ratio:  0.4098361    
+ metropolis rat:  0.4024347      in        19879 , best:    37.60334    
+ local acceptance ratio:  0.4201681    
+ metropolis rat:  0.4022788      in        20011 , best:    37.60334    
+ local acceptance ratio:  0.3787879    
+ Current convergence R-1 =   1.5384343E-02  chain steps =       20030
+ metropolis rat:  0.4020250      in        20148 , best:    37.60334    
+ local acceptance ratio:  0.3649635    
+ metropolis rat:  0.4016955      in        20289 , best:    37.60334    
+ local acceptance ratio:  0.3546099    
+ Current convergence R-1 =   1.3930169E-02  chain steps =       20291
+ metropolis rat:  0.4020593      in        20395 , best:    37.60334    
+ local acceptance ratio:  0.4716981    
+ metropolis rat:  0.4018901      in        20528 , best:    37.60334    
+ local acceptance ratio:  0.3759398    
+ Current convergence R-1 =   1.4893222E-02  chain steps =       20591
+ metropolis rat:  0.4018398      in        20655 , best:    37.60334    
+ local acceptance ratio:  0.3937008    
+ metropolis rat:  0.4013844      in        20803 , best:    37.60334    
+ local acceptance ratio:  0.3378378    
+ Current convergence R-1 =   1.6270094E-02  chain steps =       20907
+ metropolis rat:  0.4012036      in        20937 , best:    37.60334    
+ local acceptance ratio:  0.3731343    
+ metropolis rat:  0.4009680      in        21074 , best:    37.60334    
+ local acceptance ratio:  0.3649635    
+ metropolis rat:  0.4009812      in        21198 , best:    37.60334    
+ local acceptance ratio:  0.4032258    
+ Current convergence R-1 =   1.4437014E-02  chain steps =       21212
+ metropolis rat:  0.4007500      in        21335 , best:    37.60334    
+ local acceptance ratio:  0.3649635    
+ metropolis rat:  0.4011942      in        21436 , best:    37.60334    
+ local acceptance ratio:  0.4950495    
+ Current convergence R-1 =   1.3758877E-02  chain steps =       21515
+ metropolis rat:  0.4012059      in        21560 , best:    37.60334    
+ local acceptance ratio:  0.4032258    
+ metropolis rat:  0.4013656      in        21676 , best:    37.60334    
+ local acceptance ratio:  0.4310345    
+ metropolis rat:  0.4014498      in        21796 , best:    37.60334    
+ local acceptance ratio:  0.4166667    
+ Current convergence R-1 =   1.1754915E-02  chain steps =       21802
+ metropolis rat:  0.4014965      in        21918 , best:    37.60334    
+ local acceptance ratio:  0.4098361    
+ metropolis rat:  0.4017067      in        22031 , best:    37.60334    
+ local acceptance ratio:  0.4424779    
+ Current convergence R-1 =   1.2054551E-02  chain steps =       22096
+ metropolis rat:  0.4013529      in        22175 , best:    37.60334    
+ local acceptance ratio:  0.3472222    
+ metropolis rat:  0.4014173      in        22296 , best:    37.50364    
+ local acceptance ratio:  0.4132231    
+ Current convergence R-1 =   1.2814349E-02  chain steps =       22358
+ metropolis rat:  0.4007659      in        22457 , best:    37.50364    
+ local acceptance ratio:  0.3105590    
+ metropolis rat:  0.4007262      in        22584 , best:    37.50364    
+ local acceptance ratio:  0.3937008    
+ Current convergence R-1 =   1.3162800E-02  chain steps =       22634
+ metropolis rat:  0.4007928      in        22705 , best:    37.50364    
+ local acceptance ratio:  0.4132231    
+ metropolis rat:  0.4003851      in        22853 , best:    37.50364    
+ local acceptance ratio:  0.3378378    
+ Current convergence R-1 =   1.2865939E-02  chain steps =       22928
+ metropolis rat:  0.4000174      in        22999 , best:    37.50364    
+ local acceptance ratio:  0.3424658    
+ metropolis rat:  0.4001038      in        23119 , best:    37.50364    
+ local acceptance ratio:  0.4166667    
+ Current convergence R-1 =   1.2684543E-02  chain steps =       23276
+ metropolis rat:  0.3991074      in        23302 , best:    37.50364    
+ local acceptance ratio:  0.2732241    
+ metropolis rat:  0.3992144      in        23421 , best:    37.50364    
+ local acceptance ratio:  0.4201681    
+ metropolis rat:  0.3992186      in        23546 , best:    37.50364    
+ local acceptance ratio:  0.4000000    
+ Current convergence R-1 =   1.0273034E-02  chain steps =       23588
+ metropolis rat:  0.3986333      in        23706 , best:    37.50364    
+ local acceptance ratio:  0.3125000    
+ metropolis rat:  0.3979724      in        23871 , best:    37.50364    
+ local acceptance ratio:  0.3030303    
+ Current convergence R-1 =   9.0134935E-03  chain steps =       23946
+ metropolis rat:  0.3976847      in        24014 , best:    37.50364    
+ local acceptance ratio:  0.3496504    
+ metropolis rat:  0.3976143      in        24144 , best:    37.50364    
+ local acceptance ratio:  0.3846154    
+ Current convergence R-1 =   9.1628777E-03  chain steps =       24264
+ metropolis rat:  0.3972501      in        24292 , best:    37.50364    
+ local acceptance ratio:  0.3378378    
+ metropolis rat:  0.3972642      in        24417 , best:    37.50364    
+ local acceptance ratio:  0.4000000    
+ metropolis rat:  0.3971972      in        24547 , best:    37.50364    
+ local acceptance ratio:  0.3846154    
+ Current convergence R-1 =   9.2070764E-03  chain steps =       24621
+ metropolis rat:  0.3972436      in        24670 , best:    37.50364    
+ local acceptance ratio:  0.4065041    
+ metropolis rat:  0.3971134      in        24804 , best:    37.50364    
+ local acceptance ratio:  0.3731343    
+ metropolis rat:  0.3971916      in        24925 , best:    37.50364    
+ local acceptance ratio:  0.4132231    
+ Current convergence R-1 =   8.5313274E-03  chain steps =       24950
+ metropolis rat:  0.3972214      in        25049 , best:    37.50364    
+ local acceptance ratio:  0.4032258    
+ metropolis rat:  0.3973457      in        25167 , best:    37.50364    
+ local acceptance ratio:  0.4237288    
+ Current convergence R-1 =   8.9178327E-03  chain steps =       25255
+ metropolis rat:  0.3974531      in        25286 , best:    37.50364    
+ local acceptance ratio:  0.4201681    
+ metropolis rat:  0.3975595      in        25405 , best:    37.50364    
+ local acceptance ratio:  0.4201681    
+ metropolis rat:  0.3973847      in        25542 , best:    37.50364    
+ local acceptance ratio:  0.3649635    
+ Current convergence R-1 =   9.0170177E-03  chain steps =       25562
+ metropolis rat:  0.3971808      in        25681 , best:    37.50364    
+ local acceptance ratio:  0.3597122    
+ metropolis rat:  0.3972868      in        25800 , best:    37.50364    
+ local acceptance ratio:  0.4201681    
+ Current convergence R-1 =   9.1106696E-03  chain steps =       25866
+ metropolis rat:  0.3970090      in        25944 , best:    37.50364    
+ local acceptance ratio:  0.3472222    
+ metropolis rat:  0.3969167      in        26076 , best:    37.50364    
+ local acceptance ratio:  0.3787879    
+ Current convergence R-1 =   8.5338680E-03  chain steps =       26177
+ metropolis rat:  0.3971133      in        26189 , best:    37.50364    
+ local acceptance ratio:  0.4424779    
+ metropolis rat:  0.3972478      in        26306 , best:    37.50364    
+ local acceptance ratio:  0.4273504    
+ metropolis rat:  0.3968554      in        26458 , best:    37.50364    
+ local acceptance ratio:  0.3289474    
+ Current convergence R-1 =   8.4530339E-03  chain steps =       26469
+ metropolis rat:  0.3972587      in        26557 , best:    37.50364    
+ local acceptance ratio:  0.5050505    
+ metropolis rat:  0.3969145      in        26706 , best:    37.50364    
+ local acceptance ratio:  0.3355705    
+ Current convergence R-1 =   7.5612175E-03  chain steps =       26785
+ metropolis rat:  0.3973584      in        26802 , best:    37.50364    
+ local acceptance ratio:  0.5208333    
+ metropolis rat:  0.3970463      in        26949 , best:    37.50364    
+ local acceptance ratio:  0.3401361    
+ Current convergence R-1 =   7.3852255E-03  chain steps =       27072
+ metropolis rat:  0.3967522      in        27095 , best:    37.50364    
+ local acceptance ratio:  0.3424658    
+ metropolis rat:  0.3967234      in        27223 , best:    37.50364    
+ local acceptance ratio:  0.3906250    
+ metropolis rat:  0.3967964      in        27344 , best:    37.50364    
+ local acceptance ratio:  0.4132231    
+ Current convergence R-1 =   7.3956489E-03  chain steps =       27393
+ metropolis rat:  0.3967243      in        27475 , best:    37.50364    
+ local acceptance ratio:  0.3816794    
+ metropolis rat:  0.3969261      in        27587 , best:    37.50364    
+ local acceptance ratio:  0.4464286    
+ Current convergence R-1 =   8.2451468E-03  chain steps =       27705
+ metropolis rat:  0.3970259      in        27706 , best:    37.50364    
+ local acceptance ratio:  0.4201681    
+ metropolis rat:  0.3970535      in        27830 , best:    37.50364    
+ local acceptance ratio:  0.4032258    
+ metropolis rat:  0.3969673      in        27962 , best:    37.50364    
+ local acceptance ratio:  0.3787879    
+ Current convergence R-1 =   7.8824190E-03  chain steps =       28000
+ metropolis rat:  0.3965572      in        28117 , best:    37.50364    
+ local acceptance ratio:  0.3225806    
+ metropolis rat:  0.3966006      in        28240 , best:    37.50364    
+ local acceptance ratio:  0.4065041    
+ metropolis rat:  0.3966295      in        28364 , best:    37.50364    
+ local acceptance ratio:  0.4032258    
+ Current convergence R-1 =   8.4837526E-03  chain steps =       28364
+ metropolis rat:  0.3969230      in        28469 , best:    37.50364    
+ local acceptance ratio:  0.4761905    
+ metropolis rat:  0.3967977      in        28604 , best:    37.50364    
+ local acceptance ratio:  0.3703704    
+ Current convergence R-1 =   7.8750039E-03  chain steps =       28679
+ metropolis rat:  0.3966735      in        28739 , best:    37.50364    
+ local acceptance ratio:  0.3703704    
+ metropolis rat:  0.3965643      in        28873 , best:    37.50364    
+ local acceptance ratio:  0.3731343    
+ metropolis rat:  0.3964560      in        29007 , best:    37.50364    
+ local acceptance ratio:  0.3731343    
+ Current convergence R-1 =   8.0066305E-03  chain steps =       29013
+ metropolis rat:  0.3965937      in        29123 , best:    37.50364    
+ local acceptance ratio:  0.4310345    
+ metropolis rat:  0.3964457      in        29260 , best:    37.50364    
+ local acceptance ratio:  0.3649635    
+ Current convergence R-1 =   7.3185596E-03  chain steps =       29351
+ metropolis rat:  0.3966227      in        29373 , best:    37.50364    
+ local acceptance ratio:  0.4424779    
+ metropolis rat:  0.3966236      in        29499 , best:    37.50364    
+ local acceptance ratio:  0.3968254    
+ Current convergence R-1 =   6.8703396E-03  chain steps =       29635
+ metropolis rat:  0.3964238      in        29640 , best:    37.50364    
+ local acceptance ratio:  0.3546099    
+ metropolis rat:  0.3962923      in        29776 , best:    37.50364    
+ local acceptance ratio:  0.3676471    
+ metropolis rat:  0.3960959      in        29917 , best:    37.50364    
+ local acceptance ratio:  0.3546099    
+ Current convergence R-1 =   7.0124203E-03  chain steps =       29944
+ metropolis rat:  0.3961912      in        30036 , best:    37.50364    
+ local acceptance ratio:  0.4201681    
+ metropolis rat:  0.3962859      in        30155 , best:    37.50364    
+ local acceptance ratio:  0.4201681    
+ Current convergence R-1 =   6.7214803E-03  chain steps =       30246
+ metropolis rat:  0.3964190      in        30271 , best:    37.50364    
+ local acceptance ratio:  0.4310345    
+ metropolis rat:  0.3962252      in        30412 , best:    37.50364    
+ local acceptance ratio:  0.3546099    
+ metropolis rat:  0.3963834      in        30526 , best:    37.50364    
+ local acceptance ratio:  0.4385965    
+ Current convergence R-1 =   6.7174314E-03  chain steps =       30545
+ metropolis rat:  0.3963594      in        30654 , best:    37.50364    
+ local acceptance ratio:  0.3906250    
+ metropolis rat:  0.3959882      in        30809 , best:    37.50364    
+ local acceptance ratio:  0.3225806    
+ Current convergence R-1 =   6.5959683E-03  chain steps =       30852
+ metropolis rat:  0.3960044      in        30934 , best:    37.50364    
+ local acceptance ratio:  0.4000000    
+ metropolis rat:  0.3956638      in        31087 , best:    37.50364    
+ local acceptance ratio:  0.3267974    
+ Current convergence R-1 =   5.9000440E-03  chain steps =       31208
+ metropolis rat:  0.3955544      in        31222 , best:    37.50364    
+ local acceptance ratio:  0.3703704    
+ metropolis rat:  0.3953955      in        31361 , best:    37.50364    
+ local acceptance ratio:  0.3597122    
+ metropolis rat:  0.3953134      in        31494 , best:    37.50364    
+ local acceptance ratio:  0.3759398    
+ Current convergence R-1 =   6.8868143E-03  chain steps =       31521
+ metropolis rat:  0.3953069      in        31621 , best:    37.50364    
+ local acceptance ratio:  0.3937008    
+ metropolis rat:  0.3949025      in        31780 , best:    37.50364    
+ local acceptance ratio:  0.3144654    
+ Current convergence R-1 =   7.3751668E-03  chain steps =       31816
+ metropolis rat:  0.3949348      in        31904 , best:    37.50364    
+ local acceptance ratio:  0.4032258    
+ metropolis rat:  0.3950039      in        32025 , best:    37.50364    
+ local acceptance ratio:  0.4132231    
+ Current convergence R-1 =   7.4212770E-03  chain steps =       32122
+ metropolis rat:  0.3947041      in        32176 , best:    37.50364    
+ local acceptance ratio:  0.3311258    
+ metropolis rat:  0.3944438      in        32324 , best:    37.50364    
+ local acceptance ratio:  0.3378378    
+ Current convergence R-1 =   6.7031058E-03  chain steps =       32437
+ metropolis rat:  0.3943315      in        32460 , best:    37.50364    
+ local acceptance ratio:  0.3676471    
+ metropolis rat:  0.3942685      in        32592 , best:    37.50364    
+ local acceptance ratio:  0.3787879    
+ metropolis rat:  0.3941097      in        32732 , best:    37.50364    
+ local acceptance ratio:  0.3571429    
+ Current convergence R-1 =   6.6968407E-03  chain steps =       32781
+ metropolis rat:  0.3942761      in        32845 , best:    37.50364    
+ local acceptance ratio:  0.4424779    
+ metropolis rat:  0.3942022      in        32978 , best:    37.50364    
+ local acceptance ratio:  0.3759398    
+ Current convergence R-1 =   6.5381397E-03  chain steps =       33082
+ metropolis rat:  0.3944624      in        33083 , best:    37.50364    
+ local acceptance ratio:  0.4761905    
+ metropolis rat:  0.3943764      in        33217 , best:    37.50364    
+ local acceptance ratio:  0.3731343    
+ metropolis rat:  0.3943620      in        33345 , best:    37.50364    
+ local acceptance ratio:  0.3906250    
+ Current convergence R-1 =   6.4288713E-03  chain steps =       33440
+ metropolis rat:  0.3947250      in        33441 , best:    37.50364    
+ local acceptance ratio:  0.5208333    
+ metropolis rat:  0.3947682      in        33564 , best:    37.50364    
+ local acceptance ratio:  0.4065041    
+ metropolis rat:  0.3947290      in        33694 , best:    37.50364    
+ local acceptance ratio:  0.3846154    
+ Current convergence R-1 =   6.5667178E-03  chain steps =       33792
+ metropolis rat:  0.3945735      in        33834 , best:    37.50364    
+ local acceptance ratio:  0.3571429    
+ metropolis rat:  0.3946167      in        33957 , best:    37.50364    
+ local acceptance ratio:  0.4065041    
+ metropolis rat:  0.3947175      in        34075 , best:    37.50364    
+ local acceptance ratio:  0.4237288    
+ Current convergence R-1 =   6.3255881E-03  chain steps =       34158
+ metropolis rat:  0.3945869      in        34213 , best:    37.50364    
+ local acceptance ratio:  0.3623188    
+ metropolis rat:  0.3946066      in        34338 , best:    37.50364    
+ local acceptance ratio:  0.4000000    
+ Current convergence R-1 =   6.1447159E-03  chain steps =       34467
+ metropolis rat:  0.3944430      in        34479 , best:    37.50364    
+ local acceptance ratio:  0.3546099    
+ metropolis rat:  0.3943833      in        34611 , best:    37.50364    
+ local acceptance ratio:  0.3787879    
+ metropolis rat:  0.3940858      in        34764 , best:    37.50364    
+ local acceptance ratio:  0.3267974    
+ Current convergence R-1 =   6.3299062E-03  chain steps =       34807
+ metropolis rat:  0.3939828      in        34900 , best:    37.50364    
+ local acceptance ratio:  0.3676471    
+ metropolis rat:  0.3937345      in        35049 , best:    37.50364    
+ local acceptance ratio:  0.3355705    
+ Current convergence R-1 =   5.9951167E-03  chain steps =       35146
+ metropolis rat:  0.3937456      in        35175 , best:    37.50364    
+ local acceptance ratio:  0.3968254    
+ metropolis rat:  0.3937342      in        35303 , best:    37.50364    
+ local acceptance ratio:  0.3906250    
+ metropolis rat:  0.3936897      in        35434 , best:    37.50364    
+ local acceptance ratio:  0.3816794    
+ Current convergence R-1 =   5.7913135E-03  chain steps =       35483
+ metropolis rat:  0.3936897      in        35561 , best:    37.50364    
+ local acceptance ratio:  0.3937008    
+ metropolis rat:  0.3937449      in        35683 , best:    37.50364    
+ local acceptance ratio:  0.4098361    
+ metropolis rat:  0.3938107      in        35804 , best:    37.50364    
+ local acceptance ratio:  0.4132231    
+ Current convergence R-1 =   5.9579271E-03  chain steps =       35815
+ metropolis rat:  0.3938323      in        35929 , best:    37.50364    
+ local acceptance ratio:  0.4000000    
+ metropolis rat:  0.3936462      in        36073 , best:    37.50364    
+ local acceptance ratio:  0.3472222    
+ Current convergence R-1 =   6.2760846E-03  chain steps =       36091
+ metropolis rat:  0.3935812      in        36206 , best:    37.50364    
+ local acceptance ratio:  0.3759398    
+ metropolis rat:  0.3937333      in        36319 , best:    37.50364    
+ local acceptance ratio:  0.4424779    
+ Current convergence R-1 =   6.2738033E-03  chain steps =       36388
+ metropolis rat:  0.3939818      in        36423 , best:    37.50364    
+ local acceptance ratio:  0.4807692    
+ metropolis rat:  0.3939701      in        36551 , best:    37.50364    
+ local acceptance ratio:  0.3906250    
+ metropolis rat:  0.3937973      in        36694 , best:    37.50364    
+ local acceptance ratio:  0.3496504    
+ Current convergence R-1 =   6.2046186E-03  chain steps =       36706
+ metropolis rat:  0.3939147      in        36810 , best:    37.50364    
+ local acceptance ratio:  0.4310345    
+ metropolis rat:  0.3938926      in        36939 , best:    37.50364    
+ local acceptance ratio:  0.3875969    
+ Current convergence R-1 =   5.5940743E-03  chain steps =       37013
+ metropolis rat:  0.3937645      in        37078 , best:    37.50364    
+ local acceptance ratio:  0.3597122    
+ metropolis rat:  0.3936902      in        37212 , best:    37.50364    
+ local acceptance ratio:  0.3731343    
+ Current convergence R-1 =   5.3326031E-03  chain steps =       37288
+ metropolis rat:  0.3933847      in        37368 , best:    37.50364    
+ local acceptance ratio:  0.3205128    
+ metropolis rat:  0.3933333      in        37500 , best:    37.50364    
+ local acceptance ratio:  0.3787879    
+ Current convergence R-1 =   5.2287234E-03  chain steps =       37598
+ metropolis rat:  0.3933137      in        37629 , best:    37.50364    
+ local acceptance ratio:  0.3875969    
+ metropolis rat:  0.3935756      in        37731 , best:    37.50364    
+ local acceptance ratio:  0.4901961    
+ metropolis rat:  0.3933682      in        37878 , best:    37.50364    
+ local acceptance ratio:  0.3401361    
+ Current convergence R-1 =   5.1125758E-03  chain steps =       37890
+ metropolis rat:  0.3931521      in        38026 , best:    37.50364    
+ local acceptance ratio:  0.3378378    
+ metropolis rat:  0.3928553      in        38182 , best:    37.50364    
+ local acceptance ratio:  0.3205128    
+ Current convergence R-1 =   5.2417731E-03  chain steps =       38202
+ metropolis rat:  0.3922846      in        38365 , best:    37.50364    
+ local acceptance ratio:  0.2732241    
+ Current convergence R-1 =   5.6174956E-03  chain steps =       38479
+ metropolis rat:  0.3922383      in        38497 , best:    37.50364    
+ local acceptance ratio:  0.3787879    
+ metropolis rat:  0.3922838      in        38620 , best:    37.50364    
+ local acceptance ratio:  0.4065041    
+ metropolis rat:  0.3920861      in        38767 , best:    37.50364    
+ local acceptance ratio:  0.3401361    
+ Current convergence R-1 =   5.3743948E-03  chain steps =       38790
+ metropolis rat:  0.3919805      in        38905 , best:    37.50364    
+ local acceptance ratio:  0.3623188    
+ metropolis rat:  0.3919057      in        39040 , best:    37.50364    
+ local acceptance ratio:  0.3703704    
+ Current convergence R-1 =   5.0871335E-03  chain steps =       39136
+ metropolis rat:  0.3919116      in        39167 , best:    37.50364    
+ local acceptance ratio:  0.3937008    
+ metropolis rat:  0.3919972      in        39286 , best:    37.50364    
+ local acceptance ratio:  0.4201681    
+ metropolis rat:  0.3919330      in        39420 , best:    37.50364    
+ local acceptance ratio:  0.3731343    
+ Current convergence R-1 =   5.0409059E-03  chain steps =       39456
+ metropolis rat:  0.3920775      in        39533 , best:    37.50364    
+ local acceptance ratio:  0.4424779    
+ metropolis rat:  0.3922508      in        39643 , best:    37.50364    
+ local acceptance ratio:  0.4545455    
+ metropolis rat:  0.3921864      in        39777 , best:    37.50364    
+ local acceptance ratio:  0.3731343    
+ Current convergence R-1 =   5.2563492E-03  chain steps =       39781
+ metropolis rat:  0.3921323      in        39910 , best:    37.50364    
+ local acceptance ratio:  0.3759398    
+ metropolis rat:  0.3920491      in        40046 , best:    37.50364    
+ local acceptance ratio:  0.3676471    
+ Current convergence R-1 =   4.7582188E-03  chain steps =       40075
+ metropolis rat:  0.3919080      in        40188 , best:    37.50364    
+ local acceptance ratio:  0.3521127    
+ metropolis rat:  0.3917291      in        40334 , best:    37.50364    
+ local acceptance ratio:  0.3424658    
+ Current convergence R-1 =   4.9376721E-03  chain steps =       40421
+ metropolis rat:  0.3917837      in        40456 , best:    37.50364    
+ local acceptance ratio:  0.4098361    
+ metropolis rat:  0.3917028      in        40592 , best:    37.50364    
+ local acceptance ratio:  0.3676471    
+ metropolis rat:  0.3919497      in        40694 , best:    37.50364    
+ local acceptance ratio:  0.4901961    
+ Current convergence R-1 =   5.3541255E-03  chain steps =       40743
+ metropolis rat:  0.3918399      in        40833 , best:    37.50364    
+ local acceptance ratio:  0.3597122    
+ metropolis rat:  0.3917214      in        40973 , best:    37.50364    
+ local acceptance ratio:  0.3571429    
+ Current convergence R-1 =   5.1572169E-03  chain steps =       41052
+ metropolis rat:  0.3916799      in        41105 , best:    37.50364    
+ local acceptance ratio:  0.3787879    
+ metropolis rat:  0.3915246      in        41249 , best:    37.50364    
+ local acceptance ratio:  0.3472222    
+ Current convergence R-1 =   5.5227382E-03  chain steps =       41360
+ metropolis rat:  0.3915786      in        41371 , best:    37.50364    
+ local acceptance ratio:  0.4098361    
+ metropolis rat:  0.3915851      in        41498 , best:    37.50364    
+ local acceptance ratio:  0.3937008    
+ metropolis rat:  0.3914881      in        41636 , best:    37.50364    
+ local acceptance ratio:  0.3623188    
+ Current convergence R-1 =   5.8281831E-03  chain steps =       41660
+ metropolis rat:  0.3916074      in        41751 , best:    37.50364    
+ local acceptance ratio:  0.4347826    
+ metropolis rat:  0.3916979      in        41869 , best:    37.50364    
+ local acceptance ratio:  0.4237288    
+ Current convergence R-1 =   5.6536407E-03  chain steps =       41985
+ metropolis rat:  0.3917879      in        41987 , best:    37.50364    
+ local acceptance ratio:  0.4237288    
+ metropolis rat:  0.3916821      in        42126 , best:    37.50364    
+ local acceptance ratio:  0.3597122    
+ metropolis rat:  0.3917531      in        42246 , best:    37.50364    
+ local acceptance ratio:  0.4166667    
+ Current convergence R-1 =   5.8834921E-03  chain steps =       42302
+ metropolis rat:  0.3916388      in        42386 , best:    37.50364    
+ local acceptance ratio:  0.3571429    
+ metropolis rat:  0.3913227      in        42548 , best:    37.50364    
+ local acceptance ratio:  0.3086420    
+ Current convergence R-1 =   5.8552274E-03  chain steps =       42596
+ metropolis rat:  0.3913940      in        42668 , best:    37.50364    
+ local acceptance ratio:  0.4166667    
+ metropolis rat:  0.3914557      in        42789 , best:    37.50364    
+ local acceptance ratio:  0.4132231    
+ Current convergence R-1 =   5.8055995E-03  chain steps =       42908
+ metropolis rat:  0.3913803      in        42925 , best:    37.50364    
+ local acceptance ratio:  0.3676471    
+ metropolis rat:  0.3913599      in        43055 , best:    37.50364    
+ local acceptance ratio:  0.3846154    
+ metropolis rat:  0.3911675      in        43204 , best:    37.50364    
+ local acceptance ratio:  0.3355705    
+ Current convergence R-1 =   5.6490544E-03  chain steps =       43244
+ metropolis rat:  0.3911569      in        43333 , best:    37.50364    
+ local acceptance ratio:  0.3875969    
+ metropolis rat:  0.3910293      in        43475 , best:    37.50364    
+ local acceptance ratio:  0.3521127    
+ Current convergence R-1 =   5.3549102E-03  chain steps =       43541
+ metropolis rat:  0.3907503      in        43634 , best:    37.50364    
+ local acceptance ratio:  0.3144654    
+ metropolis rat:  0.3906161      in        43777 , best:    37.50364    
+ local acceptance ratio:  0.3496504    
+ Current convergence R-1 =   5.7843151E-03  chain steps =       43861
+ metropolis rat:  0.3905805      in        43909 , best:    37.50364    
+ local acceptance ratio:  0.3787879    
+ metropolis rat:  0.3904033      in        44057 , best:    37.50364    
+ local acceptance ratio:  0.3378378    
+ Current convergence R-1 =   5.9380280E-03  chain steps =       44224
+ metropolis rat:  0.3900509      in        44225 , best:    37.50364    
+ local acceptance ratio:  0.2976190    
+ metropolis rat:  0.3899207      in        44368 , best:    37.50364    
+ local acceptance ratio:  0.3496504    
+ metropolis rat:  0.3898351      in        44506 , best:    37.50364    
+ local acceptance ratio:  0.3623188    
+ Current convergence R-1 =   6.1237658E-03  chain steps =       44540
+ metropolis rat:  0.3897675      in        44642 , best:    37.50364    
+ local acceptance ratio:  0.3676471    
+ metropolis rat:  0.3897003      in        44778 , best:    37.50364    
+ local acceptance ratio:  0.3676471    
+ metropolis rat:  0.3897116      in        44905 , best:    37.50364    
+ local acceptance ratio:  0.3937008    
+ Current convergence R-1 =   6.1062397E-03  chain steps =       44907
+ metropolis rat:  0.3897748      in        45026 , best:    37.50364    
+ local acceptance ratio:  0.4132231    
+ metropolis rat:  0.3895270      in        45183 , best:    37.50364    
+ local acceptance ratio:  0.3184713    
+ Current convergence R-1 =   6.2952214E-03  chain steps =       45221
+ metropolis rat:  0.3894356      in        45322 , best:    37.50364    
+ local acceptance ratio:  0.3597122    
+ metropolis rat:  0.3894390      in        45450 , best:    37.50364    
+ local acceptance ratio:  0.3906250    
+ Current convergence R-1 =   6.5813144E-03  chain steps =       45538
+ metropolis rat:  0.3895448      in        45566 , best:    37.50364    
+ local acceptance ratio:  0.4310345    
+ metropolis rat:  0.3896758      in        45679 , best:    37.50364    
+ local acceptance ratio:  0.4424779    
+ metropolis rat:  0.3895424      in        45823 , best:    37.50364    
+ local acceptance ratio:  0.3472222    
+ Current convergence R-1 =   6.9955541E-03  chain steps =       45878
+ metropolis rat:  0.3895963      in        45945 , best:    37.50364    
+ local acceptance ratio:  0.4098361    
+ metropolis rat:  0.3893034      in        46108 , best:    37.50364    
+ local acceptance ratio:  0.3067485    
+ Current convergence R-1 =   7.3484839E-03  chain steps =       46198
+ metropolis rat:  0.3892902      in        46238 , best:    37.50364    
+ local acceptance ratio:  0.3846154    
+ metropolis rat:  0.3893947      in        46354 , best:    37.50364    
+ local acceptance ratio:  0.4310345    
+ metropolis rat:  0.3893980      in        46482 , best:    37.50364    
+ local acceptance ratio:  0.3906250    
+ Current convergence R-1 =   7.0008649E-03  chain steps =       46488
+ metropolis rat:  0.3891760      in        46637 , best:    37.50364    
+ local acceptance ratio:  0.3225806    
+ metropolis rat:  0.3890967      in        46775 , best:    37.50364    
+ local acceptance ratio:  0.3623188    
+ Current convergence R-1 =   7.0226812E-03  chain steps =       46843
+ metropolis rat:  0.3890014      in        46915 , best:    37.50364    
+ local acceptance ratio:  0.3571429    
+ metropolis rat:  0.3887661      in        47072 , best:    37.50364    
+ local acceptance ratio:  0.3184713    
+ Current convergence R-1 =   7.2069438E-03  chain steps =       47157
+ metropolis rat:  0.3889112      in        47183 , best:    37.50364    
+ local acceptance ratio:  0.4504505    
+ metropolis rat:  0.3889159      in        47311 , best:    37.50364    
+ local acceptance ratio:  0.3906250    
+ metropolis rat:  0.3889451      in        47436 , best:    37.50364    
+ local acceptance ratio:  0.4000000    
+ Current convergence R-1 =   6.7676725E-03  chain steps =       47478
+ metropolis rat:  0.3889414      in        47565 , best:    37.50364    
+ local acceptance ratio:  0.3875969    
+ metropolis rat:  0.3888481      in        47705 , best:    37.50364    
+ local acceptance ratio:  0.3571429    
+ Current convergence R-1 =   6.3529173E-03  chain steps =       47777
+ metropolis rat:  0.3887960      in        47840 , best:    37.50364    
+ local acceptance ratio:  0.3703704    
+ metropolis rat:  0.3887765      in        47971 , best:    37.50364    
+ local acceptance ratio:  0.3816794    
+ Current convergence R-1 =   5.8261766E-03  chain steps =       48085
+ metropolis rat:  0.3885230      in        48131 , best:    37.50364    
+ local acceptance ratio:  0.3125000    
+ metropolis rat:  0.3885286      in        48259 , best:    37.50364    
+ local acceptance ratio:  0.3906250    
+ metropolis rat:  0.3887430      in        48361 , best:    37.50364    
+ local acceptance ratio:  0.4901961    
+ Current convergence R-1 =   5.7804007E-03  chain steps =       48387
+ metropolis rat:  0.3887880      in        48484 , best:    37.50364    
+ local acceptance ratio:  0.4065041    
+ metropolis rat:  0.3888329      in        48607 , best:    37.50364    
+ local acceptance ratio:  0.4065041    
+ Current convergence R-1 =   5.3808931E-03  chain steps =       48699
+ metropolis rat:  0.3888775      in        48730 , best:    37.50364    
+ local acceptance ratio:  0.4065041    
+ metropolis rat:  0.3888662      in        48860 , best:    37.50364    
+ local acceptance ratio:  0.3846154    
+ metropolis rat:  0.3886803      in        49012 , best:    37.50364    
+ local acceptance ratio:  0.3289474    
+ Current convergence R-1 =   5.0273221E-03  chain steps =       49051
+ metropolis rat:  0.3886142      in        49149 , best:    37.50364    
+ local acceptance ratio:  0.3649635    
+ metropolis rat:  0.3886904      in        49268 , best:    37.50364    
+ local acceptance ratio:  0.4201681    
+ Current convergence R-1 =   4.7991662E-03  chain steps =       49353
+ metropolis rat:  0.3886325      in        49404 , best:    37.50364    
+ local acceptance ratio:  0.3676471    
+ metropolis rat:  0.3884729      in        49553 , best:    37.50364    
+ local acceptance ratio:  0.3355705    
+ metropolis rat:  0.3885802      in        49668 , best:    37.50364    
+ local acceptance ratio:  0.4347826    
+ Current convergence R-1 =   4.9513807E-03  chain steps =       49681
+ metropolis rat:  0.3883281      in        49829 , best:    37.50364    
+ local acceptance ratio:  0.3105590    
+ metropolis rat:  0.3885284      in        49932 , best:    37.50364    
+ local acceptance ratio:  0.4854369    
+ Current convergence R-1 =   5.0770026E-03  chain steps =       50025
+ metropolis rat:  0.3886036      in        50051 , best:    37.50364    
+ local acceptance ratio:  0.4201681    
+ metropolis rat:  0.3884694      in        50197 , best:    37.50364    
+ local acceptance ratio:  0.3424658    
+ metropolis rat:  0.3884209      in        50332 , best:    37.50364    
+ local acceptance ratio:  0.3703704    
+ Current convergence R-1 =   5.5678659E-03  chain steps =       50390
+ metropolis rat:  0.3884881      in        50452 , best:    37.50364    
+ local acceptance ratio:  0.4166667    
+ metropolis rat:  0.3885472      in        50573 , best:    37.50364    
+ local acceptance ratio:  0.4132231    
+ metropolis rat:  0.3885448      in        50702 , best:    37.50364    
+ local acceptance ratio:  0.3875969    
+ Current convergence R-1 =   5.5356184E-03  chain steps =       50718
+ metropolis rat:  0.3885348      in        50832 , best:    37.50364    
+ local acceptance ratio:  0.3846154    
+ metropolis rat:  0.3882353      in        51000 , best:    37.50364    
+ local acceptance ratio:  0.2976190    
+ Current convergence R-1 =   5.4916441E-03  chain steps =       51043
+ metropolis rat:  0.3882868      in        51122 , best:    37.50364    
+ local acceptance ratio:  0.4098361    
+ metropolis rat:  0.3883078      in        51248 , best:    37.50364    
+ local acceptance ratio:  0.3968254    
+ metropolis rat:  0.3883287      in        51374 , best:    37.50364    
+ local acceptance ratio:  0.3968254    
+ Current convergence R-1 =   5.4861326E-03  chain steps =       51378
+ metropolis rat:  0.3883420      in        51501 , best:    37.50364    
+ local acceptance ratio:  0.3937008    
+ metropolis rat:  0.3883702      in        51626 , best:    37.50364    
+ local acceptance ratio:  0.4000000    
+ Current convergence R-1 =   5.9626088E-03  chain steps =       51721
+ metropolis rat:  0.3884283      in        51747 , best:    37.50364    
+ local acceptance ratio:  0.4132231    
+ metropolis rat:  0.3884262      in        51876 , best:    37.50364    
+ local acceptance ratio:  0.3875969    
+ metropolis rat:  0.3884317      in        52004 , best:    37.50364    
+ local acceptance ratio:  0.3906250    
+ Current convergence R-1 =   6.0431743E-03  chain steps =       52020
+ metropolis rat:  0.3884296      in        52133 , best:    37.50364    
+ local acceptance ratio:  0.3875969    
+ metropolis rat:  0.3884275      in        52262 , best:    37.50364    
+ local acceptance ratio:  0.3875969    
+ Current convergence R-1 =   5.9766159E-03  chain steps =       52336
+ metropolis rat:  0.3884033      in        52394 , best:    37.50364    
+ local acceptance ratio:  0.3787879    
+ metropolis rat:  0.3885862      in        52498 , best:    37.50364    
+ local acceptance ratio:  0.4807692    
+ metropolis rat:  0.3886207      in        52622 , best:    37.50364    
+ local acceptance ratio:  0.4032258    
+ Current convergence R-1 =   6.0161464E-03  chain steps =       52641
+ metropolis rat:  0.3887656      in        52731 , best:    37.50364    
+ local acceptance ratio:  0.4587156    
+ metropolis rat:  0.3888216      in        52852 , best:    37.50364    
+ local acceptance ratio:  0.4132231    
+ Current convergence R-1 =   5.7788254E-03  chain steps =       52968
+ metropolis rat:  0.3888920      in        52971 , best:    37.50364    
+ local acceptance ratio:  0.4201681    
+ metropolis rat:  0.3890134      in        53083 , best:    37.50364    
+ local acceptance ratio:  0.4464286    
+ metropolis rat:  0.3887981      in        53241 , best:    37.50364    
+ local acceptance ratio:  0.3164557    
+ Current convergence R-1 =   5.4390137E-03  chain steps =       53317
+ metropolis rat:  0.3886350      in        53392 , best:    37.50364    
+ local acceptance ratio:  0.3311258    
+ metropolis rat:  0.3884293      in        53549 , best:    37.50364    
+ local acceptance ratio:  0.3184713    
+ Current convergence R-1 =   5.1781908E-03  chain steps =       53647
+ metropolis rat:  0.3882754      in        53699 , best:    37.50364    
+ local acceptance ratio:  0.3333333    
+ metropolis rat:  0.3881872      in        53840 , best:    37.50364    
+ local acceptance ratio:  0.3546099    
+ metropolis rat:  0.3881139      in        53979 , best:    37.50364    
+ local acceptance ratio:  0.3597122    
+ Current convergence R-1 =   4.6508396E-03  chain steps =       54007
+ metropolis rat:  0.3880983      in        54110 , best:    37.50364    
+ local acceptance ratio:  0.3816794    
+ metropolis rat:  0.3882689      in        54215 , best:    37.50364    
+ local acceptance ratio:  0.4761905    
+ Current convergence R-1 =   4.3408307E-03  chain steps =       54290
+ metropolis rat:  0.3884818      in        54314 , best:    37.50364    
+ local acceptance ratio:  0.5050505    
+ metropolis rat:  0.3883228      in        54465 , best:    37.50364    
+ local acceptance ratio:  0.3311258    
+ metropolis rat:  0.3883282      in        54593 , best:    37.50364    
+ local acceptance ratio:  0.3906250    
+ Current convergence R-1 =   4.4383286E-03  chain steps =       54613
+ metropolis rat:  0.3882200      in        54737 , best:    37.50364    
+ local acceptance ratio:  0.3472222    
+ metropolis rat:  0.3880064      in        54896 , best:    37.50364    
+ local acceptance ratio:  0.3144654    
+ Current convergence R-1 =   4.7071781E-03  chain steps =       54910
+ metropolis rat:  0.3880055      in        55025 , best:    37.50364    
+ local acceptance ratio:  0.3875969    
+ metropolis rat:  0.3880397      in        55149 , best:    37.50364    
+ local acceptance ratio:  0.4032258    
+ Current convergence R-1 =   4.6090516E-03  chain steps =       55270
+ metropolis rat:  0.3878071      in        55311 , best:    37.50364    
+ local acceptance ratio:  0.3086420    
+ metropolis rat:  0.3879326      in        55422 , best:    37.50364    
+ local acceptance ratio:  0.4504505    
+ metropolis rat:  0.3880436      in        55535 , best:    37.50364    
+ local acceptance ratio:  0.4424779    
+ Current convergence R-1 =   4.5677698E-03  chain steps =       55575
+ metropolis rat:  0.3879728      in        55674 , best:    37.50364    
+ local acceptance ratio:  0.3597122    
+ metropolis rat:  0.3880485      in        55792 , best:    37.50364    
+ local acceptance ratio:  0.4237288    
+ Current convergence R-1 =   4.3438133E-03  chain steps =       55884
+ metropolis rat:  0.3880752      in        55917 , best:    37.50364    
+ local acceptance ratio:  0.4000000    
+ metropolis rat:  0.3881226      in        56039 , best:    37.50364    
+ local acceptance ratio:  0.4098361    
+ metropolis rat:  0.3880799      in        56174 , best:    37.50364    
+ local acceptance ratio:  0.3703704    
+ Current convergence R-1 =   4.6985671E-03  chain steps =       56193
+ metropolis rat:  0.3879754      in        56318 , best:    37.50364    
+ local acceptance ratio:  0.3472222    
+ metropolis rat:  0.3877822      in        56475 , best:    37.50364    
+ local acceptance ratio:  0.3184713    
+ Current convergence R-1 =   4.5750621E-03  chain steps =       56503
+ metropolis rat:  0.3876654      in        56621 , best:    37.50364    
+ local acceptance ratio:  0.3424658    
+ metropolis rat:  0.3877130      in        56743 , best:    37.50364    
+ local acceptance ratio:  0.4098361    
+ Current convergence R-1 =   4.6030744E-03  chain steps =       56811
+ metropolis rat:  0.3876037      in        56888 , best:    37.50364    
+ local acceptance ratio:  0.3448276    
+ metropolis rat:  0.3875221      in        57029 , best:    37.50364    
+ local acceptance ratio:  0.3546099    
+ Current convergence R-1 =   4.8355246E-03  chain steps =       57162
+ metropolis rat:  0.3874206      in        57173 , best:    37.50364    
+ local acceptance ratio:  0.3472222    
+ metropolis rat:  0.3875360      in        57285 , best:    37.50364    
+ local acceptance ratio:  0.4464286    
+ metropolis rat:  0.3874821      in        57422 , best:    37.50364    
+ local acceptance ratio:  0.3649635    
+ Current convergence R-1 =   4.9762102E-03  chain steps =       57498
+ metropolis rat:  0.3874824      in        57551 , best:    37.50364    
+ local acceptance ratio:  0.3875969    
+ metropolis rat:  0.3875230      in        57674 , best:    37.50364    
+ local acceptance ratio:  0.4065041    
+ Current convergence R-1 =   5.1030214E-03  chain steps =       57794
+ metropolis rat:  0.3875500      in        57799 , best:    37.50364    
+ local acceptance ratio:  0.4000000    
+ metropolis rat:  0.3872426      in        57974 , best:    37.50364    
+ local acceptance ratio:  0.2857143    
+ metropolis rat:  0.3872500      in        58102 , best:    37.50364    
+ local acceptance ratio:  0.3906250    
+ Current convergence R-1 =   4.9935859E-03  chain steps =       58133
+ metropolis rat:  0.3870780      in        58257 , best:    37.50364    
+ local acceptance ratio:  0.3225806    
+ metropolis rat:  0.3869532      in        58405 , best:    37.50364    
+ local acceptance ratio:  0.3378378    
+ Current convergence R-1 =   4.7295499E-03  chain steps =       58485
+ metropolis rat:  0.3870207      in        58524 , best:    37.50364    
+ local acceptance ratio:  0.4201681    
+ metropolis rat:  0.3869626      in        58662 , best:    37.50364    
+ local acceptance ratio:  0.3623188    
+ metropolis rat:  0.3868916      in        58802 , best:    37.50364    
+ local acceptance ratio:  0.3571429    
+ Current convergence R-1 =   5.0190818E-03  chain steps =       58821
+ metropolis rat:  0.3868472      in        58938 , best:    37.50364    
+ local acceptance ratio:  0.3676471    
+ metropolis rat:  0.3867375      in        59084 , best:    37.50364    
+ local acceptance ratio:  0.3424658    
+ Current convergence R-1 =   5.2760118E-03  chain steps =       59125
+ metropolis rat:  0.3869093      in        59187 , best:    37.50364    
+ local acceptance ratio:  0.4854369    
+ metropolis rat:  0.3868586      in        59324 , best:    37.50364    
+ local acceptance ratio:  0.3649635    
+ metropolis rat:  0.3869058      in        59446 , best:    37.50364    
+ local acceptance ratio:  0.4098361    
+ Current convergence R-1 =   4.7405376E-03  chain steps =       59458
+ metropolis rat:  0.3869917      in        59562 , best:    37.50364    
+ local acceptance ratio:  0.4310345    
+ metropolis rat:  0.3870319      in        59685 , best:    37.50364    
+ local acceptance ratio:  0.4065041    
+ Current convergence R-1 =   4.6335980E-03  chain steps =       59760
+ metropolis rat:  0.3868973      in        59835 , best:    37.50364    
+ local acceptance ratio:  0.3333333    
+ metropolis rat:  0.3869182      in        59961 , best:    37.50364    
+ local acceptance ratio:  0.3968254    
+ Current convergence R-1 =   4.9389238E-03  chain steps =       60044
+ metropolis rat:  0.3869067      in        60092 , best:    37.50364    
+ local acceptance ratio:  0.3816794    
+ metropolis rat:  0.3868376      in        60232 , best:    37.50364    
+ local acceptance ratio:  0.3571429    
+ Current convergence R-1 =   5.1462445E-03  chain steps =       60343
+ metropolis rat:  0.3869289      in        60347 , best:    37.50364    
+ local acceptance ratio:  0.4347826    
+ metropolis rat:  0.3870968      in        60450 , best:    37.50364    
+ local acceptance ratio:  0.4854369    
+ metropolis rat:  0.3872129      in        60561 , best:    37.50364    
+ local acceptance ratio:  0.4504505    
+ metropolis rat:  0.3872328      in        60687 , best:    37.50364    
+ local acceptance ratio:  0.3968254    
+ Current convergence R-1 =   5.0279857E-03  chain steps =       60689
+ metropolis rat:  0.3872591      in        60812 , best:    37.50364    
+ local acceptance ratio:  0.4000000    
+ metropolis rat:  0.3872407      in        60944 , best:    37.50364    
+ local acceptance ratio:  0.3787879    
+ Current convergence R-1 =   4.7729132E-03  chain steps =       61042
+ metropolis rat:  0.3871908      in        61081 , best:    37.50364    
+ local acceptance ratio:  0.3649635    
+ metropolis rat:  0.3871600      in        61215 , best:    37.50364    
+ local acceptance ratio:  0.3731343    
+ metropolis rat:  0.3872682      in        61327 , best:    37.50364    
+ local acceptance ratio:  0.4464286    
+ Current convergence R-1 =   4.9811983E-03  chain steps =       61363
+ metropolis rat:  0.3873761      in        61439 , best:    37.50364    
+ local acceptance ratio:  0.4464286    
+ metropolis rat:  0.3873262      in        61576 , best:    37.50364    
+ local acceptance ratio:  0.3649635    
+ Current convergence R-1 =   4.3310765E-03  chain steps =       61650
+ metropolis rat:  0.3872766      in        61713 , best:    37.50364    
+ local acceptance ratio:  0.3649635    
+ metropolis rat:  0.3872397      in        61848 , best:    37.50364    
+ local acceptance ratio:  0.3703704    
+ metropolis rat:  0.3873342      in        61962 , best:    37.50364    
+ local acceptance ratio:  0.4385965    
+ Current convergence R-1 =   4.1294992E-03  chain steps =       61984
+ metropolis rat:  0.3873347      in        62091 , best:    37.50364    
+ local acceptance ratio:  0.3875969    
+ metropolis rat:  0.3874598      in        62200 , best:    37.50364    
+ local acceptance ratio:  0.4587156    
+ Current convergence R-1 =   4.1252254E-03  chain steps =       62310
+ metropolis rat:  0.3875471      in        62315 , best:    37.50364    
+ local acceptance ratio:  0.4347826    
+ metropolis rat:  0.3876279      in        62431 , best:    37.50364    
+ local acceptance ratio:  0.4310345    
+ metropolis rat:  0.3876403      in        62558 , best:    37.50364    
+ local acceptance ratio:  0.3937008    
+ Current convergence R-1 =   4.2439681E-03  chain steps =       62615
+ metropolis rat:  0.3877639      in        62667 , best:    37.50364    
+ local acceptance ratio:  0.4587156    
+ metropolis rat:  0.3877512      in        62798 , best:    37.50364    
+ local acceptance ratio:  0.3816794    
+ metropolis rat:  0.3876154      in        62949 , best:    37.50364    
+ local acceptance ratio:  0.3311258    
+ Current convergence R-1 =   4.4956775E-03  chain steps =       62955
+ metropolis rat:  0.3877629      in        63054 , best:    37.50364    
+ local acceptance ratio:  0.4761905    
+ metropolis rat:  0.3875540      in        63217 , best:    37.50364    
+ local acceptance ratio:  0.3067485    
+ Current convergence R-1 =   4.5926417E-03  chain steps =       63286
+ metropolis rat:  0.3874623      in        63361 , best:    37.50364    
+ local acceptance ratio:  0.3472222    
+ metropolis rat:  0.3874870      in        63486 , best:    37.50364    
+ local acceptance ratio:  0.4000000    
+ Current convergence R-1 =   4.5485231E-03  chain steps =       63596
+ metropolis rat:  0.3874385      in        63623 , best:    37.50364    
+ local acceptance ratio:  0.3649635    
+ metropolis rat:  0.3875787      in        63729 , best:    37.50364    
+ local acceptance ratio:  0.4716981    
+ metropolis rat:  0.3875847      in        63857 , best:    37.50364    
+ local acceptance ratio:  0.3906250    
+ Current convergence R-1 =   4.4983653E-03  chain steps =       63921
+ metropolis rat:  0.3876151      in        63981 , best:    37.50364    
+ local acceptance ratio:  0.4032258    
+ metropolis rat:  0.3877057      in        64095 , best:    37.50364    
+ local acceptance ratio:  0.4385965    
+ metropolis rat:  0.3877237      in        64221 , best:    37.50364    
+ local acceptance ratio:  0.3968254    
+ Current convergence R-1 =   4.4194907E-03  chain steps =       64270
+ metropolis rat:  0.3878138      in        64335 , best:    37.50364    
+ local acceptance ratio:  0.4385965    
+ metropolis rat:  0.3877171      in        64480 , best:    37.50364    
+ local acceptance ratio:  0.3448276    
+ Current convergence R-1 =   4.1525238E-03  chain steps =       64577
+ metropolis rat:  0.3875429      in        64638 , best:    37.50364    
+ local acceptance ratio:  0.3164557    
+ metropolis rat:  0.3875969      in        64758 , best:    37.50364    
+ local acceptance ratio:  0.4166667    
+ metropolis rat:  0.3876148      in        64884 , best:    37.50364    
+ local acceptance ratio:  0.3968254    
+ Current convergence R-1 =   3.9252532E-03  chain steps =       64929
+ metropolis rat:  0.3877400      in        64992 , best:    37.50364    
+ local acceptance ratio:  0.4629630    
+ metropolis rat:  0.3877338      in        65122 , best:    37.50364    
+ local acceptance ratio:  0.3846154    
+ metropolis rat:  0.3876503      in        65265 , best:    37.50364    
+ local acceptance ratio:  0.3496504    
+ Current convergence R-1 =   3.7778297E-03  chain steps =       65279
+ metropolis rat:  0.3874843      in        65422 , best:    37.50364    
+ local acceptance ratio:  0.3184713    
+ metropolis rat:  0.3875318      in        65543 , best:    37.50364    
+ local acceptance ratio:  0.4132231    
+ Current convergence R-1 =   3.3785936E-03  chain steps =       65620
+ metropolis rat:  0.3875615      in        65667 , best:    37.50364    
+ local acceptance ratio:  0.4032258    
+ metropolis rat:  0.3875085      in        65805 , best:    37.50364    
+ local acceptance ratio:  0.3623188    
+ metropolis rat:  0.3876733      in        65906 , best:    37.50364    
+ local acceptance ratio:  0.4950495    
+ Current convergence R-1 =   3.2543549E-03  chain steps =       65960
